@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+### Microscopia and the world of yeats.
 
-You can use the [editor on GitHub](https://github.com/gambiolo/Microscopyeast/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We are currently building microscops that works with a smartphone. It would be autonomous platform based data collection of wine/beer/sourdough/kimshy/kefir/kombucha makers, we know for certain that most of fermented matter in the wine world goes to a lab without knowing how to read how yeasts behave and express their specific gene phenotypes. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+What if we could collectively share, depending on seasons, phenotypes, organolepsy the datas about our own terroir, being able to compare with one an other about the state of fermentation by simply taking a photo of what's alive in the ''bioreactor''
 
-### Markdown
+So we do not depend on a private expensive Lab and know precisly waht is going on.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gambiolo/Microscopyeast/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Screen Shot 2021-08-18 at 12 38 16 AM](https://user-images.githubusercontent.com/86488172/129809877-0939a201-d06c-49f8-9c6d-56cbbe6939bc.png)
